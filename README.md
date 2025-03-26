@@ -23,3 +23,5 @@ A notação Big O é uma ferramenta matemática usada para descrever o comportam
 - O(n2)O(n2): Tempo de execução quadrático. O tempo cresce quadraticamente com o tamanho da entrada, como em algoritmos de ordenação por seleção.
 
 ### A notação Big O é essencial para entender e otimizar o desempenho de algoritmos, especialmente em cenários com grandes volumes de dados
+
+![Logo](/img/bigOtwo.webp)
