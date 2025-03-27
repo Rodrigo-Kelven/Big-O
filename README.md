@@ -25,3 +25,7 @@ A notação Big O é uma ferramenta matemática usada para descrever o comportam
 ### A notação Big O é essencial para entender e otimizar o desempenho de algoritmos, especialmente em cenários com grandes volumes de dados
 
 ![Logo](/img/bigOtwo.webp)
+
+
+# Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.;)
