@@ -29,3 +29,6 @@ A notação Big O é uma ferramenta matemática usada para descrever o comportam
 
 # Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.;)
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
